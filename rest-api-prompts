@@ -1,0 +1,35 @@
+Generate REST APIs.
+
+Rules
+
+GET
+
+POST
+
+PUT
+
+DELETE
+
+PATCH
+
+Use
+
+ResponseEntity
+
+Proper status codes
+
+Validation
+
+Exception handling
+
+Swagger annotations
+
+Pagination
+
+Sorting
+
+Filtering
+
+Search
+
+Generate Postman collection.
