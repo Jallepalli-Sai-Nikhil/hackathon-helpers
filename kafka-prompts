@@ -1,0 +1,35 @@
+Generate Kafka Producer and Consumer.
+
+Requirements
+
+JSON Serialization
+
+Dead Letter Queue
+
+Retry
+
+Error Handling
+
+Idempotency
+
+Topic Naming
+
+Event Naming
+
+Consumer Groups
+
+Transactions
+
+Spring Kafka
+
+Generate producer
+
+consumer
+
+configuration
+
+DTOs
+
+events
+
+unit tests
